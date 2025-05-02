@@ -20,6 +20,7 @@
         <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
         <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=Spring%20Boot&logoColor=white">
         <img src="https://img.shields.io/badge/ApacheTomcat-A8B9CC?style=for-the-badge&logo=ApacheTomcat&logoColor=white">
+        <img src="https://img.shields.io/badge/Amazon%20AWS-A8B9CC?style=for-the-badge&logo=Amazon%20AWS&logoColor=white">
         <br/>
         <img src="https://img.shields.io/badge/HTML5-F35825?style=for-the-badge&logo=HTML5&logoColor=white">
         <img src="https://img.shields.io/badge/CSS3-007BC9?style=for-the-badge&logo=CSS3&logoColor=white">
