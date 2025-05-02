@@ -16,6 +16,8 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ✨ Tech Stack ✨ </h2>
     <div style="margin: 0 auto; text-align: center;" align= "center"> 
         <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse&logoColor=white">
+        <img src="https://img.shields.io/badge/VSCode-2C2255?style=for-the-badge&logo=VSCode&logoColor=white">
+        <img src="https://img.shields.io/badge/SqlDeveloper-2C2255?style=for-the-badge&logo=SqlDeveloper&logoColor=white">
         <br>
         <img src="https://img.shields.io/badge/Java-E97A1A?style=for-the-badge&logo=Java&logoColor=white">
         <img src="https://img.shields.io/badge/Oracle-EC3138?style=for-the-badge&logo=Oracle&logoColor=white">
