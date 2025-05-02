@@ -19,7 +19,7 @@
         <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
         <img src="https://img.shields.io/badge/ApacheTomcat-A8B9CC?style=for-the-badge&logo=ApacheTomcat&logoColor=white">
         <br/>
-        <img src="https://img.shields.io/badge/HTML-6DB33F?style=for-the-badge&logo=HTML&logoColor=white">
+        <img src="https://img.shields.io/badge/HTML5-6DB33F?style=for-the-badge&logo=HTML5&logoColor=white">
         <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
         <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
     </div>
