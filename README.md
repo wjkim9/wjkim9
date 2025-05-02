@@ -4,12 +4,12 @@
     <div align= "center"> 
          <a href="https://open.kakao.com/o/sgAwphuh"><img src="kakaotalk.png" style="width: 50px;"></a>
          <a href=><img src="discord.png" style="width: 50px;"></a>
-         <a href=mailto:>구글이메일</a>
-          </div><br>
-    <div align= "center">  </div> 
-    <h2 align="center">📧 Email 📧</h2>
+         <a href=mailto:kin9216@gmail.com><img src="gmail.png" style="width: 50px;"></a>
+</div>
+<br>
+<h2 align="center">📧 Email 📧</h2>
 <p align="center">
-  <Strong> 자 신 의 이 메 일 아 이 디 </Strong>
+  <Strong>kin9216@gmail.com</Strong>
 </p>
 <br>
 <div align= "center">
