@@ -18,6 +18,7 @@
         <img src="https://img.shields.io/badge/Java-E97A1A?style=for-the-badge&logo=Java&logoColor=white">
         <img src="https://img.shields.io/badge/Oracle-EC3138?style=for-the-badge&logo=Oracle&logoColor=white">
         <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
+        <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=Spring%20Boot&logoColor=white">
         <img src="https://img.shields.io/badge/ApacheTomcat-A8B9CC?style=for-the-badge&logo=ApacheTomcat&logoColor=white">
         <br/>
         <img src="https://img.shields.io/badge/HTML5-F35825?style=for-the-badge&logo=HTML5&logoColor=white">
