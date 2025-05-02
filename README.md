@@ -1,8 +1,7 @@
 <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me 🧑‍💻 </h2>
     <div align= "center"> 
-         <img src="githublogo.png">
-         <a href="https://open.kakao.com/o/sgAwphuh">카카오톡</a>
+         <a href="https://open.kakao.com/o/sgAwphuh"><img src="kakaotalk.png"></a>
          <a href=>디스코드</a>
          <a href=mailto:>구글이메일</a>
           </div><br>
