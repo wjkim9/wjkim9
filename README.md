@@ -3,7 +3,7 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me 🧑‍💻 </h2>
     <div align= "center"> 
          <a href="https://open.kakao.com/o/sgAwphuh"><img src="kakaotalk.png" style="width: 50px;"></a>
-         <a href=><img src="discord.png" style="width: 50px;"></a>
+         <a href="https://discord.gg/hcqxbfxeGt"><img src="discord.png" style="width: 50px;"></a>
          <a href=mailto:kin9216@gmail.com><img src="gmail.png" style="width: 50px;"></a>
 </div>
 <br>
