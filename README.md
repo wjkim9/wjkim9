@@ -7,9 +7,9 @@
          <a href=mailto:kin9216@gmail.com><img src="gmail.png" style="width: 50px;"></a>
 </div>
 <br>
-<h2 align="center">📧 Email 📧</h2>
+<h2 align="center">📧 MyPage 📧</h2>
 <p align="center">
-  <Strong>kin9216@gmail.com</Strong>
+  <Strong><a href="https://wjkim9.github.io/">Link</a></Strong>
 </p>
 <br>
 <div align= "center">
