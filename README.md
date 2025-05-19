@@ -21,6 +21,9 @@
         <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
         <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=Spring%20Boot&logoColor=white">
         <br>
+        <img src="https://img.shields.io/badge/Linux-6DB33F?style=for-the-badge&logo=Linux&logoColor=white">
+        <img src="https://img.shields.io/badge/Docker-6DB33F?style=for-the-badge&logo=Docker&logoColor=white">
+        <br>
         <img src="https://img.shields.io/badge/Oracle-EC3138?style=for-the-badge&logo=Oracle&logoColor=white">
         <br>
         <img src="https://img.shields.io/badge/ApacheTomcat-A8B9CC?style=for-the-badge&logo=ApacheTomcat&logoColor=white">
